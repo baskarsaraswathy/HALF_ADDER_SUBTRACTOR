@@ -1,4 +1,4 @@
-# HALF_ADDER_SUBTRACTOR
+# EXP 03-HALF_ADDER_SUBTRACTOR
 Implementation-of-Half-Adder-and-Half Subtractor-circuit
 
 **AIM:**
@@ -48,8 +48,6 @@ Figure -02 HALF Subtractor
 
 
 **Program:**
-
-/* Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
 ```
 module san03(a,b,sum,carry,D,Bo); 
 input a,b; 
@@ -63,7 +61,11 @@ and g5(Bo,abar,b);
 endmodule
 
 ```
-Developed by:BASKAR J RegisterNumber:212223040025
+
+Program for logic gates and verify its truth table in quartus using Verilog programming.
+
+# Developed by : BASKAR J 
+# RegisterNumber : 212223040025
 
 **RTL Schematic**
 ![image](https://github.com/baskarsaraswathy/HALF_ADDER_SUBTRACTOR/assets/144871005/eb1293c3-dc6e-4fba-a079-59fd9d1ad8f8)
